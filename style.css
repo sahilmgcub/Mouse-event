@@ -1,0 +1,16 @@
+#myElement {
+  background: rgb(216, 32, 32);
+  height: 300px;
+  text-align: center;
+  font: 30px/300px Helvetica, Arial, sans-serif;
+  margin: 50px;
+  padding: 20px;
+}
+#headElement {
+  background: rgb(146, 19, 206);
+  height: 100px;
+  text-align: center;
+  font: 30px/100px Helvetica, Arial, sans-serif;
+  margin: 50px;
+  padding: 20px;
+}
